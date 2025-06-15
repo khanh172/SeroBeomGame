@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|d:\\unity project\\tranquockhanh_serobeom_minigame\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\mainmenuanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|d:\\unity project\\tranquockhanh_serobeom_minigame\\assets\\scripts\\dialogueline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogueline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|d:\\unity project\\tranquockhanh_serobeom_minigame\\assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\holecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\holecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|d:\\unity project\\tranquockhanh_serobeom_minigame\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\alternatetile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\alternatetile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|d:\\unity project\\tranquockhanh_serobeom_minigame\\assets\\scripts\\holecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\holecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\grounddebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +51,16 @@
       "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\alternatetile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\alternatetile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\cloudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cloudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\cloudmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cloudmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C6A6F3-633D-C58F-E37C-697B7DA9A07E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\assets\\scripts\\snakemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "LevelManager.cs",
               "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\LevelManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LevelManager.cs",
@@ -63,62 +87,50 @@
               "ViewState": "AQIAAO8AAAAAAAAAAAAmwDwBAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T07:18:44.736Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAQwGUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:43:14.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AudioManager.cs",
-              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
-              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAQwFsAAAAnAAAA",
+              "Title": "DialogueLine.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\DialogueLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueLine.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\DialogueLine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T11:22:45.086Z",
+              "WhenOpened": "2025-06-15T13:42:06.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LevelData.cs",
-              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\LevelData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelData.cs",
-              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\LevelData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\LevelData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueManager.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueManager.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAQwJwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T06:35:28.781Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SnakeController.cs",
-              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\SnakeController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SnakeController.cs",
-              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\SnakeController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SnakeController.cs",
-              "ViewState": "AQIAAMQBAAAAAAAAAAAAwMsBAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T09:05:17.291Z",
+              "WhenOpened": "2025-06-15T13:41:38.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GroundDebugger.cs",
-              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\GroundDebugger.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundDebugger.cs",
-              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\GroundDebugger.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GroundDebugger.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAewCwAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T07:43:30.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "GridManager.cs",
               "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\GridManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GridManager.cs",
@@ -130,40 +142,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ItemController.cs",
-              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\ItemController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemController.cs",
-              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\ItemController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ItemController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T17:23:16.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HoleController.cs",
-              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\HoleController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HoleController.cs",
-              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\HoleController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HoleController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T15:55:03.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "SnakeManager.cs",
-              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\SnakeManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SnakeManager.cs",
-              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\SnakeManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SnakeManager.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAkwFoAAAAAAAAA",
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAQwFsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T14:52:36.476Z"
+              "WhenOpened": "2025-06-15T11:22:45.086Z"
             },
             {
               "$type": "Document",
@@ -176,6 +163,115 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T09:40:45.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuAnimator.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\MainMenuAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuAnimator.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\MainMenuAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuAnimator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:04:53.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SnakeController.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\SnakeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SnakeController.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\SnakeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SnakeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:05:17.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoleController.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\HoleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HoleController.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\HoleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HoleController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:55:03.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroundDebugger.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\GroundDebugger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GroundDebugger.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\GroundDebugger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GroundDebugger.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAewCwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T07:43:30.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LevelData.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\LevelData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelData.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\LevelData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T06:35:28.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CloudManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\CloudManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CloudManager.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\CloudManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CloudManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:10:21.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CloudMover.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\CloudMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CloudMover.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\CloudMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CloudMover.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:08:11.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\ItemController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemController.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\ItemController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:23:16.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SnakeManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\SnakeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SnakeManager.cs",
+              "ToolTip": "D:\\Unity Project\\TranQuocKhanh_SeroBeom_minigame\\Assets\\Scripts\\SnakeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SnakeManager.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAkwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:52:36.476Z"
             }
           ]
         }
